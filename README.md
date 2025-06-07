@@ -19,7 +19,7 @@ Every `.sql` file in this repo corresponds to a specific LeetCode database probl
 |-----------|-------------------------------------------------|---------------------------------------------------|
 | 185       | Department Top Three Salaries                   | `185_DepartmentTopThreeSalaries.sql`              |
 | 196       | Delete Duplicate Emails                         | `196_DeleteDuplicateEmails.sql`                   |
-| …         | …                                               | …                                                 |
+| 610       | Triangle Judgement                              | `610_TriangleJudgement.sql`                       |
 
 
 > **Note:** This table is updated each time a new solution is added. Please check here to see which problems have already been solved.
