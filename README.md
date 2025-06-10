@@ -22,7 +22,7 @@ Every `.sql` file in this repo corresponds to a specific LeetCode database probl
 | 610       | Triangle Judgement                              | `610_TriangleJudgement.sql`                       |
 | 1070      | Product Sales Analysis III                      | `1070_Product_Sales_Analysis_iii.sql`             |                  
 | 1075      | Project Employees I                             | `1075_Project_employees_i.sql`                    |  
-
+| 1084      | Sales Analysis III                              | `1084_Sales_analysis_iii.sql`                     |
 > **Note:** This table is updated each time a new solution is added. Please check here to see which problems have already been solved.
 
 ---
